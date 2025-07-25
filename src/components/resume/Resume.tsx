@@ -38,7 +38,7 @@ const Resume = () => {
                 <h2>Work Experience</h2>
 
                 <div className="cv-job">
-                    <h3>Assistant Manager – IT, Mahindra Teqo <span>(Apr 2022 – Present)</span></h3>
+                    <h3>Assistant Manager – IT, Mahindra Teqo <span>(Apr 2025 – Present)</span></h3>
                     <ul>
                         <li>Managing frontend for 4–5 products, leading 5 engineers using Agile/Kanban.</li>
                         <li>Collaborated with business teams to deliver scalable software solutions.</li>
@@ -47,7 +47,7 @@ const Resume = () => {
                 </div>
 
                 <div className="cv-job">
-                    <h3>Development Team Lead, IBM <span>(Sep 2020 – Apr 2022)</span></h3>
+                    <h3>Development Team Lead, IBM <span>(Sep 2022 – Apr 2025)</span></h3>
                     <ul>
                         <li>Led development for Nippon India Mutual Fund platform.</li>
                         <li>Worked on Node.js, Express.js, and Angular 12 for scalable solutions.</li>
