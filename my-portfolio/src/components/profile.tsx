@@ -1,4 +1,4 @@
-import React from 'react';
+
 import './profile.css'; // Make sure the path is correct
 import { motion } from 'framer-motion';
 import { FaGithub, FaLinkedin, FaInstagram, FaYoutube } from 'react-icons/fa';

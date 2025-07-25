@@ -1,4 +1,4 @@
-import React from 'react';
+
 import './Resume.css';
 import thiruImg from '../../assets/thiru.jpg';
 

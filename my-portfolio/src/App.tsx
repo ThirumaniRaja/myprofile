@@ -1,4 +1,4 @@
-import { useState } from 'react'
+
 import Resume from './components/resume/Resume'
 import './App.css'
 
